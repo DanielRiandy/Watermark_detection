@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>AbfAbgGvl0Rzb4l4.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/AbfAbgGvl0Rzb4l4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_r123</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>823</ymin>
+			<xmax>720</xmax>
+			<ymax>909</ymax>
+		</bndbox>
+	</object>
+</annotation>

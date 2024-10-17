@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>uWDhVO8LtxyTPG2p.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/uWDhVO8LtxyTPG2p.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>420</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r123</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>273</ymin>
+			<xmax>345</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+</annotation>

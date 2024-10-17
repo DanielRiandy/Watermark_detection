@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>TJ5m21rn1WPGCuAE.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/TJ5m21rn1WPGCuAE.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_r123</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>242</ymin>
+			<xmax>392</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

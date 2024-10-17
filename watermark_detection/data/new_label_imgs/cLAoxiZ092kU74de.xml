@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>cLAoxiZ092kU74de.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/cLAoxiZ092kU74de.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r123</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>437</ymin>
+			<xmax>520</xmax>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+</annotation>

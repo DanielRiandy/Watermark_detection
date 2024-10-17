@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>zqGis4bitYQuUwcg.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/zqGis4bitYQuUwcg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r123</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>326</ymin>
+			<xmax>645</xmax>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>nDI18k3vsL151ZRf.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/nDI18k3vsL151ZRf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>r123</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>196</xmin>
+			<ymin>325</ymin>
+			<xmax>521</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

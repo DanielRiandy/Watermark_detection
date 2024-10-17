@@ -1,0 +1,42 @@
+## Step 1: Data Preprocessing & Exploration
+
+    ● Analyze and clean the dataset. Ensure that all images are appropriately processed (e.g.,
+    resizing, normalization) for training.
+
+    ● Perform data augmentation (e.g., flips, rotations, noise) to increase the robustness of
+    your model.
+    
+    ● Visualize the distribution of images with and without watermarks and analyze any
+    challenges such as class imbalance.
+
+## Step 2: Model Selection & Training
+    ● Build a machine learning or deep learning model that can detect the presence of
+    watermarks in images.
+
+    ● You can use object detection models (e.g., Faster R-CNN, YOLO) if working with
+    bounding box annotations, or segmentation models (e.g., U-Net) for pixel-level
+    detection.
+
+    ● Train the model and evaluate its performance using appropriate metrics such as
+    precision, recall, F1-score, and Intersection-over-Union (IoU) for location accuracy.
+
+    ● Document your process for hyperparameter tuning and the rationale behind model
+    architecture selection.
+
+## Step 3: Model Deployment
+    ● Deploy the trained model as a REST API using Flask or FastAPI.
+
+    ● The API should accept an image as input and return whether a watermark is detected
+    and, if so, its location in the form of bounding boxes or a heatmap overlay.
+
+    ● Containerize the application using Docker.
+
+## Step 4: Kubernetes Deployment
+    ● Provide a Dockerfile to containerize the model and API.
+
+    ● Include Kubernetes YAML manifests (Deployment, Service, etc.) for deploying the
+    container to a Kubernetes cluster.
+    
+    ● While you don't need to deploy the application on a Kubernetes cluster for the
+    take-home test, ensure that your instructions and deployment files are
+    production-ready.

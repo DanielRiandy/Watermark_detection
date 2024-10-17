@@ -1,0 +1,26 @@
+<annotation>
+	<folder>all_data</folder>
+	<filename>fnnKTFUx36makePy.jpg</filename>
+	<path>/Users/driandy/Desktop/Works/Personal/99 group/watermark_detection/data/all_data/fnnKTFUx36makePy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>540</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>non_r123</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>168</xmin>
+			<ymin>325</ymin>
+			<xmax>371</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
