@@ -8,8 +8,8 @@ This project implements a watermark detection API using FastAPI and machine lear
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/watermark-detection.git
-   cd watermark-detection
+   git clone https://github.com/DanielRiandy/Watermark_detection.git
+   cd Watermark_detection
    ```
 
 2. Install dependencies:
