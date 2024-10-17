@@ -1,4 +1,4 @@
 .env
 __pycache__
-watermark_detection/notebooks/data
-watermark_detection_env
+watermark_detection/notebooks/data/
+watermark_detection_env/
